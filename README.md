@@ -17,5 +17,5 @@ Microsoft Excel to inspect the data, Jupyter Notebook, pgAdmin 4, https://app.qu
 ![Entity Relationship Diagram (ERD)](EmployeeSQL/Analysis/ERD.png?raw=true)
 
 ## Summary
-This challenge allowed us to practice Data Modeling, Data Engineering, importing and Data Analysis in PostgreSQL.
+This challenge allowed us to practice Data Modeling, Data Engineering, importing data and data analysis in PostgreSQL.
 
