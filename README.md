@@ -10,7 +10,7 @@ We worked with the data provided on the six starter files:
 department.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 ## Software
-Microsoft Excel to inspect the data, Jupyter Notebook, pgAdmin 4, https://app.quickdatabasediagrams.com/#/
+Microsoft Excel to inspect the data, Jupyter Notebook, pgAdmin 4, app.quickdatabasediagrams.com
 
 ## Entity Relationship Diagram (ERD)
 
